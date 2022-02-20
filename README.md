@@ -1,13 +1,15 @@
 ### 
 
-### Hi there 👋 I'm [Carlos Cuesta](https://carloscuesta.me) 👋🏼
+### Hi there 👋 I'm [Sai Raghavendra Viravalli](https://sairaghavendra.me) 👋🏼
 
-I'm a **Front End Engineer** based in Barcelona ☀️. I'm a coding passionate focused on **JavaScript**, specifically **React** & **React-Native**. Interested in design, under engineering and **OpenSource** ❤️
+I'm a **Masters Student** based in Boston ☀️. I'm a coding passionate focused on **Python**,  Interested in Data Engineering, Data Science, Business Intelligence & Data Analytics. 
 
-Aside from coding I enjoy writing technical things [at my blog](https://carloscuesta.me/blog) ✍️
+I personally work on **Football Analytics** using **R**, **Python**, **Tableau**, **PowerBI** as I am very much passionate about the sport and the modern football makes use of **Technology** in it and thats something which really makes me pursue this in the meatime. 
+
+<!--Aside from coding I enjoy writing technical things [at my blog](https://carloscuesta.me/blog) ✍️ -->
 
 <p>
-  <a href="https://twitter.com/intent/follow?screen_name=crloscuesta">
+  <a href="https://twitter.com/psychronicles">
     <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @crloscuesta on Twitter" title="Follow @crloscuesta on Twitter">
   </a>
 
