@@ -21,7 +21,7 @@ I personally work on **Football Analytics** using **R**, **Python**, **Tableau**
   <a href="https://github.com/Sairaghav1999/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Sairaghav1999&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=vue-dark"
+      src="https://github-readme-stats.vercel.app/api?username=Sairaghav1999&count_private=true&&include_all_commits=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=vue-dark"
     />
   </a>
    <a href="https://github.com/Sairaghav1999/github-readme-stats">
