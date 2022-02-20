@@ -2,21 +2,19 @@
 
 ### Hi there 👋 I'm [Sai Raghavendra Viravalli](https://sairaghavendra.me) 👋🏼
 
-I'm a **Masters Student** based in Boston ☀️. I'm a coding passionate focused on **Python**,  Interested in Data Engineering, Data Science, Business Intelligence & Data Analytics. 
+I'm a **Masters Student** based in Boston ☀️. I'm a coding passionate focused on **Python**. Interested in Data Engineering, Data Science, Business Intelligence & Data Analytics. 
 
-I personally work on **Football Analytics** using **R**, **Python**, **Tableau**, **PowerBI** as I am very much passionate about the sport and the modern football makes use of **Technology** in it and thats something which really makes me pursue this in the meatime. 
+I personally work on **Football Analytics** using **R**, **Python**, **Tableau**, **PowerBI** as I am very much passionate about the sport and the modern football make use of **Technology** in it and thats something which really makes me pursue this in the meantime. 
 
 <!--Aside from coding I enjoy writing technical things [at my blog](https://carloscuesta.me/blog) ✍️ -->
 
 <p>
   <a href="https://twitter.com/psychronicles">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @crloscuesta on Twitter" title="Follow @crloscuesta on Twitter">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @psychronicles on Twitter" title="Follow @psychronicles on Twitter">
   </a>
 
-  <a href="https://github.com/sponsors/carloscuesta">
-    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor carloscuesta on GitHub" title="Sponsor carloscuesta on GitHub">
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-SaiRaghavendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-raghavendra-viravalli-3146a0129/)](https://www.linkedin.com/in/sai-raghavendra-viravalli-3146a0129/)
+![Profile Views](https://komarev.com/ghpvc/?username=Sairaghav1999&color=green)
 
 
 
