@@ -16,6 +16,20 @@ I personally work on **Football Analytics** using **R**, **Python**, **Tableau**
 [![Linkedin Badge](https://img.shields.io/badge/-SaiRaghavendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-raghavendra-viravalli-3146a0129/)](https://www.linkedin.com/in/sai-raghavendra-viravalli-3146a0129/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sairaghav1999&color=green)
 
+ 
+<p align="justify">
+  <a href="https://github.com/Sairaghav1999/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Sairaghav1999&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/Sairaghav1999/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaghav1999&layout=compact&theme=radical" />
+  </a>  
+</p>  
 
 
 <!--
