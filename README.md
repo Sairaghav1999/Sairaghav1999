@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm [Sai Raghavendra Viravalli](https://sairaghavendra.me) 👋🏼
 
-I'm a **Masters Student** based in Boston ☀️. I'm a coding passionate focused on **Python & R**. Interested in Data Engineering, Data Science, Business Intelligence & Data Analytics. 
+I'm a **Masters Student** based in Boston ☀️. I'm a coding passionate focused in **Python & R**. Interested in Data Engineering, Data Science, Business Intelligence & Data Analytics. 
 
 I personally work on **Football Analytics** using **R**, **Python**, **Tableau**, **PowerBI** as I am very much passionate about the sport and the modern football make use of **Technology** in it and that something which really makes me pursue this in the meantime. I plan on publishing them in a phased manner 
 
